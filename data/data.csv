@@ -1,4 +1,4 @@
-Tipo,Cidade,Estado,Vagas,Quartos,Area,Banheiros,Preco
+Tipo,Bairro,Cidade,Vagas,Quartos,Area,Banheiros,Preco
 Casa,São João,Curitiba,10 vagas,4 quartos,1340 m²,10,"R$ 13.000.000,00"
 Casa,Cacupé,Florianópolis,5 vagas,5 quartos,580 m²,5,"R$ 13.000.000,00"
 Casa,Alphaville Graciosa,Pinhais,6 vagas,4 quartos,585 m²,1,"R$ 7.950.000,00"

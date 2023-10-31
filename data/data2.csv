@@ -1,4 +1,4 @@
-Tipo,Cidade,Estado,Vagas,Quartos,Area,Banheiros,Preco
+Tipo,Bairro,Cidade,Vagas,Quartos,Area,Banheiros,Preco
 Casa,São João,Curitiba,10,4,1340,10,1300000000.0
 Casa,Cacupé,Florianópolis,5,5,580,5,1300000000.0
 Casa,Alphaville Graciosa,Pinhais,6,4,585,1,795000000.0

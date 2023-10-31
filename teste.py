@@ -131,7 +131,7 @@ for page in range(1,pages_number+1):
 driver.quit()
 
 # cria um dataframe pandas e salva como um arquivo CSV
-for i in range(0,len(neighbooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooçpppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp                                                                         r)):
+for i in range(0,len(neighbor)):
     combinacao=[link_imovel[i],address[i],neighbor[i],anunciante[i],area[i],tipo[i],room[i],bath[i],park[i],price[i]]
     df=pd.DataFrame(combinacao)
     with open('VivaRealData.csv', 'a', encoding='utf-16', newline='') as f:

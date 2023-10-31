@@ -12,4 +12,4 @@ from sklearn.preprocessing import StandardScaler
 df = pd.read_csv('data/imovel_data.csv')
 
 
-
+# 
